@@ -1,0 +1,7 @@
+./build/main -o data/vqa/observe/church.db -p data/vqa/prov/all_answers_church.txt -q ans_barn -m mclbp -r 10000
+mean: 0.511117
+average deviation: 0.00027249
+
+./build/main  -o data/smoke/observe/smokeTrain.db -p data/smoke/prov/train.txt  -m mclbp -q smoke_5 -r 10000   
+0.461299
+0.000497747

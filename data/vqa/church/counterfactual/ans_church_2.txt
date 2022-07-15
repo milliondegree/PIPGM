@@ -1,0 +1,64 @@
+counterfactual sim_church_cloud: 0.0357488
+counterfactual sim_church_building: 0.291374
+counterfactual sim_church_cross: 0.189241
+counterfactual word_church: 1
+counterfactual hasImg_horse_in_field: 0.878296
+counterfactual simRep1_building_brown: 0.193127
+counterfactual hasQ_background_building_WHAT: 0.986204
+counterfactual simRep2_building_roof: 0.392195
+counterfactual hasQ_building_in_background: 0.878502
+counterfactual hasImg_horse_color_brown: 0.992883
+counterfactual simRep2_background_horse: 0.0209726
+counterfactual hasImg_building_with_roof: 0.501366
+counterfactual hasImg_cross_on_building: 0.991832
+counterfactual simRep2_background_field: 0.255097
+counterfactual simRep1_building_in: 0.00194527
+counterfactual hasImg_cloud_in_sky: 0.842599
+counterfactual simRep1_building_color: 0.100486
+counterfactual word_barn: 0.961471
+counterfactual sim_barn_building: 0.291406
+counterfactual hasQ_building_is_WHAT: 0.987834
+counterfactual sim_barn_cross: 0.2053
+counterfactual simRep2_background_sky: 0.323315
+counterfactual sim_in_color: 0.0710821
+counterfactual simRep2_background_brown: 0.232204
+counterfactual simRep1_is_with: 0.0923959
+counterfactual sim_barn_horse: 0.290777
+counterfactual sim_barn_cloud: 0.305458
+counterfactual simRep1_is_on: 0.0382682
+counterfactual simRep2_building_building: 0.990239
+counterfactual sim_church_horse: 0.246832
+
+
+
+diff of counterfactual: 
+simRep1_building_in: -0.133355
+simRep1_is_on: -0.106221
+sim_barn_cross: -0.096037
+sim_church_cross: 0.0922761
+sim_church_horse: 0.0590107
+sim_barn_horse: -0.0585168
+word_barn: -0.0385288
+simRep1_building_color: -0.0348099
+sim_church_building: 0.0289655
+sim_barn_building: -0.027061
+sim_church_cloud: 0.0242888
+sim_barn_cloud: -0.0234559
+simRep2_background_sky: -0.0175941
+simRep2_background_field: -0.0140419
+hasQ_background_building_WHAT: -0.0137957
+hasQ_building_is_WHAT: -0.0121664
+simRep2_background_brown: -0.0114845
+simRep2_building_building: -0.0097612
+simRep1_is_with: -0.00900611
+hasImg_cross_on_building: -0.00816754
+hasImg_cloud_in_sky: -0.00740139
+hasImg_horse_color_brown: -0.00711682
+simRep2_building_roof: -0.00540137
+sim_in_color: 0.00336106
+simRep1_building_brown: 0.00233835
+hasImg_horse_in_field: -0.00170443
+hasImg_building_with_roof: 0.00136565
+hasQ_building_in_background: 0.000171177
+simRep2_background_horse: -5.8416e-05
+word_church: 0be

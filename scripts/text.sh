@@ -1,0 +1,17 @@
+./build/main \
+    -o data/hypertext-class/sample7/sample710.obs \
+    -p data/hypertext-class/sample7/prov/sample710.txt \
+    -m mclbp \
+    -r 1 \
+    -q topic_ResearchProject_43,topic_Student_43 \
+    -delta 0.01 \
+    -a 0.007 \
+    -cn 30  \
+    -i all \
+    -d 0.01 \
+    -optimize topic_ResearchProject_43 \
+    -update_rate 1 \
+    -regularization 0.0 \
+    -optimizer 5 \
+    -l l1 \
+    -rule_name 0

@@ -1,0 +1,11 @@
+./build/main \
+    -o data/vqa/observe/church.db \
+    -p data/vqa/prov/all_answers_church.txt \
+    -q ans_church \
+    -m mclbp \
+    -r 10000 \
+    -d 0.1 \
+    -a 0.001 \
+    -cn 3 \
+    -i all \
+    -rule_name 0

@@ -1,0 +1,16 @@
+./build/main \
+    -o data/vqa/observe/church.db \
+    -p data/vqa/prov/all_answers_church.txt \
+    -q ans_barn,ans_church \
+    -m mclbp \
+    -r 10000 \
+    -i all \
+    -d 0.01 \
+    -a 0.001 \
+    -cn 3 \
+    -optimize ans_church \
+    -update_rate 2e-1 \
+    -regularization 0.022 \
+    -optimizer 4 \
+    -l l1 \
+    -rule_name 0

@@ -1,0 +1,11 @@
+./build/main \
+    -o data/hypertext-class/sample7/sample710.obs \
+    -p data/hypertext-class/sample7/prov/sample710.txt \
+    -m mclbp \
+    -r 1 \
+    -q topic_Department_68,topic_Student_68 \
+    -i all \
+    -d 0.1 \
+    -a 0.01 \
+    -cn 10 \
+    -rule_name 0

@@ -1,0 +1,11 @@
+./build/main \
+    -o data/vqa/observe/terminal.db \
+    -p data/vqa/prov/all_answers_terminal.txt \
+    -q ans_terminal \
+    -m mclbp \
+    -r 10000 \
+    -a 0.001 \
+    -d 0.1 \
+    -cn 2 \
+    -i all \
+    -rule_name 0

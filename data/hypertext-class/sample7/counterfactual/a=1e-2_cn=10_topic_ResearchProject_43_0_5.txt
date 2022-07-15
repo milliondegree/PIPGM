@@ -1,0 +1,39 @@
+new probability of topic_ResearchProject_43: 0.473505
+new probability of topic_Course_43: 0.42124
+new probability of topic_Staff_43: 0.357476
+origin loss: 1.04364, reg: 0
+round: 1, loss of topic_ResearchProject_43: 1.04364
+
+counterfactual links_198_88: 1
+counterfactual links_43_300: 1
+counterfactual hasword_research_198: 1
+counterfactual hasword_type_68: 1
+counterfactual hasword_robert_43: 1
+counterfactual links_43_68: 1
+counterfactual links_43_40: 1
+counterfactual links_43_88: 1
+counterfactual hasword_text_43: 1
+counterfactual hasword_graphic_43: 1
+counterfactual hasword_time_43: 1
+counterfactual hasword_algorithm_43: 0
+counterfactual hasword_hardwar_43: 1
+counterfactual hasword_jan_40: 1
+counterfactual hasword_univers_40: 1
+
+diff of counterfactual: 
+hasword_algorithm_43: -1
+links_43_300: 0
+hasword_research_198: 0
+hasword_type_68: 0
+hasword_robert_43: 0
+links_43_68: 0
+links_43_40: 0
+links_43_88: 0
+hasword_text_43: 0
+hasword_graphic_43: 0
+hasword_time_43: 0
+links_198_88: 0
+hasword_hardwar_43: 0
+hasword_jan_40: 0
+hasword_univers_40: 0
+optimization time: 0s

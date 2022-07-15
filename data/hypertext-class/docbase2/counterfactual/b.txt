@@ -1,0 +1,100 @@
+counterfactual r3981: -0.13168
+counterfactual r4028: -0.0489299
+counterfactual r3553: -0.48291
+counterfactual r1678: -0.153373
+counterfactual r3441: -0.16667
+counterfactual r1871: -0.234697
+counterfactual hasword_hardwar_43: 1
+counterfactual r3064: -0.195429
+counterfactual r1738: -0.171809
+counterfactual r2094: -0.22734
+counterfactual hasword_request_43: 1
+counterfactual r3032: -0.0916413
+counterfactual r1933: -0.0506988
+counterfactual r793: -0.129756
+counterfactual r247: -0.160392
+counterfactual links_43_300: 1
+counterfactual r1145: -0.488733
+counterfactual hasword_manag_43: 1
+counterfactual r3731: -0.338505
+counterfactual r2166: -0.0929628
+counterfactual r971: -0.326549
+counterfactual links_43_88: 1
+counterfactual r1076: -0.0684836
+counterfactual r656: -0.132692
+counterfactual hasword_robert_43: 1
+counterfactual r3072: -0.615253
+counterfactual r1287: -0.155388
+counterfactual r2069: -0.136266
+counterfactual hasword_game_43: 1
+counterfactual rl: -0.11167
+counterfactual r741: -0.182791
+counterfactual links_43_40: 1
+counterfactual links_43_68: 1
+counterfactual r4211: -0.412811
+counterfactual r1831: -0.398049
+counterfactual r3668: -0.457367
+counterfactual r1724: -0.324157
+counterfactual hasword_algorithm_43: 1
+counterfactual r2104: -0.337078
+counterfactual r2182: 0.205997
+counterfactual r542: -0.320277
+counterfactual hasword_graphic_43: 1
+counterfactual r388: -0.0713622
+counterfactual hasword_time_43: 1
+counterfactual r3936: -0.209332
+counterfactual r371: -0.254958
+counterfactual hasword_text_43: 1
+counterfactual r1274: -0.115082
+counterfactual hasword_output_43: 1
+
+diff of counterfactual: 
+r2182: 0.529397
+r3936: 0.169146
+r371: 0.145895
+r1274: 0.135117
+r3441: 0
+r1871: 0
+hasword_hardwar_43: 0
+r3064: 0
+r1738: 0
+r2094: 0
+hasword_request_43: 0
+r3032: 0
+r1933: 0
+r793: 0
+r247: 0
+links_43_300: 0
+r1145: 0
+hasword_manag_43: 0
+r3731: 0
+r2166: 0
+r971: 0
+links_43_88: 0
+r1076: 0
+r656: 0
+hasword_robert_43: 0
+r3072: 0
+r1287: 0
+r2069: 0
+hasword_game_43: 0
+rl: 0
+r741: 0
+links_43_40: 0
+links_43_68: 0
+r4211: 0
+r1831: 0
+r3668: 0
+r1724: 0
+hasword_algorithm_43: 0
+r2104: 0
+r1678: 0
+r542: 0
+hasword_graphic_43: 0
+r388: 0
+hasword_time_43: 0
+r3553: 0
+r4028: 0
+hasword_text_43: 0
+r3981: 0
+hasword_output_43: 0

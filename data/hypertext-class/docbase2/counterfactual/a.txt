@@ -1,0 +1,30 @@
+counterfactual hasword_hardwar_43: 1
+counterfactual hasword_request_43: 1
+counterfactual links_43_300: 1
+counterfactual hasword_manag_43: 1
+counterfactual links_43_88: 1
+counterfactual hasword_robert_43: 1
+counterfactual hasword_game_43: 1
+counterfactual links_43_40: 1
+counterfactual links_43_68: 1
+counterfactual hasword_algorithm_43: 0
+counterfactual hasword_graphic_43: 0
+counterfactual hasword_time_43: 0
+counterfactual hasword_text_43: 1
+counterfactual hasword_output_43: 1
+
+diff of counterfactual: 
+hasword_time_43: -1
+hasword_graphic_43: -1
+hasword_algorithm_43: -1
+hasword_manag_43: 0
+links_43_88: 0
+hasword_robert_43: 0
+hasword_game_43: 0
+links_43_40: 0
+links_43_68: 0
+links_43_300: 0
+hasword_request_43: 0
+hasword_hardwar_43: 0
+hasword_text_43: 0
+hasword_output_43: 0
